@@ -8,6 +8,8 @@ description: >-
 ---
 ## Getting to BKK Airport
 
+![Traffic Thailand](/img/chiang_mai_thailand_road_road_transport_public_means_of_transport_bus_moped_moped_riders-1265660.jpg)
+
 While staying near the Khao San road we were looking for the cheapest and most comfortable way to get the airport on our way home. 
 
 Staying at newer areas of the city has several options like the Bangkok Metro, or local buses.
