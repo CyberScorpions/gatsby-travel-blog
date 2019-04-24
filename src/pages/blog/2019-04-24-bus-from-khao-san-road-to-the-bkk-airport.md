@@ -6,20 +6,31 @@ description: >-
   This is probably the cheapest way to travel to the Bangkok airport, A ticket
   to will cost 60 Baht (updated 2019)
 ---
-# Getting to BKK Airport 
+## Getting to BKK Airport
 
-While staying near the Khao San road we were looking for a way to get 
+While staying near the Khao San road we were looking for the cheapest and most comfortable way to get the airport on our way home. 
 
-Staying at other areas of the city has several options like the Bangkok Metro you can find on Google maps but looking at the options around Khao San road yield only the more expensive options like:
+Staying at newer areas of the city has several options like the Bangkok Metro, or local buses.
+
+Staying around the old town area, Khao San road - a search on Google maps will provide you with a complicated route with several changes.
+
+ you can find on Google maps but looking at the options around yield only the more expensive options like:
 
 * Normal taxi - About 400-500 Baht 
 * Grab taxi - About 300 Baht (Metered) - This is the local "Uber", you can download the app [here ](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=en)
-* Mini van - About 150 Baht (Per person) - You can ask your hotel/hostel how to get those
+* Mini van - About 150 Baht (Per person) - You can ask your hotel/hostel how to order one for you
+* S1 bus - 60 Baht - See below
 
-This is probably the cheapest way to travel to the Bangkok airport, A ticket to will cost 60 Baht (updated 2019) 
+## The "S1" bus
 
-The bus number is S1, it has several stops around the old city area and specifically the Khao San road. 
+This is probably the cheapest way to travel to the Bangkok airport, A ticket to will cost 60 Baht with a drive of about 45 min - 1 hour.
 
 
 
-although many do not know it and it is quite hard to find info on Google maps etc.
+The bus has several stops around the old city area and specifically the Khao San road, you can see the map [here](https://www.transitbangkok.com/lines/bangkok-bus-line/S1).
+
+<iframe src="https://www.google.com/maps/d/embed?mid=12fV3JPPj__KJvJMf9KWesxO6EbdY1cdk" width="640" height="480"></iframe>
+
+To make sure you're in the right stop look for "S1" on the bus stop sign.
+
+The bus frequency is every 30 minutes, starts at 7:00 and ends at 21:00.
