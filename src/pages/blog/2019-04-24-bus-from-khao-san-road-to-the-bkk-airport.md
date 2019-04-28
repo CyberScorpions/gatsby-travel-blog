@@ -5,6 +5,11 @@ date: 2019-04-24T14:23:38.851Z
 description: >-
   This is probably the cheapest way to travel to the Bangkok airport, A ticket
   to will cost 60 Baht (updated 2019)
+tags:
+  - Khao San
+  - Bangkok
+  - Bus
+  - Airport
 ---
 ## Getting to BKK Airport
 
