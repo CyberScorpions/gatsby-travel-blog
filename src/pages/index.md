@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Amit's Travel blog
-image: /img/home-jumbotron.jpg
+image: /img/aerial-shot-asian-asphalt-439862-1-.jpg
 heading: Great coffee with a conscience
 subheading: 'Experiences, Tips, Fun'
 mainpitch:
